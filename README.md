@@ -3,7 +3,7 @@
 
 # Airline Passenger Satisfaction - Machine Learning Analysis
 
-This project is an individual assignment submitted for the CCS2213 Machine Learning course at Albukhary International University. The goal is to analyze airline passenger satisfaction using machine learning models, focusing on data preprocessing, model evaluation, and classifier comparison.
+The goal of this project is to analyze airline passenger satisfaction using machine learning models, focusing on data preprocessing, model evaluation, and classifier comparison.
 
 ## 📊 Dataset Overview
 
